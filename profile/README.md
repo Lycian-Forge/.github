@@ -1,4 +1,6 @@
-# 🔥 Welcome to Lycian Forge! 🎮✨
+<div align="center">
+  # 🔥 Welcome to Lycian Forge! 🎮✨
+</div>
 
 <div align="center">
     <a href="https://ibb.co/Fk66b2Gq">
