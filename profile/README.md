@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <a href="https://ibb.co/Fk66b2Gq">
+    <a>
         <img src="https://i.ibb.co/4wWWZzBg/openart-image-B20-UFI-n-1740059639742-raw.png" alt="Lycian Forge Logo" style="width: 70%; max-width: 600px;">
     </a>
 </div>
@@ -65,7 +65,7 @@ If you're as excited about *The Warrior & The Smith* as we are, show your suppor
 ---
 
 <div align="center">
-    <a href="https://ibb.co/9mZWFNx8">
+    <a>
         <img src="https://i.ibb.co/p6hdtxH0/openart-image-ULe-CHgb9-1740059639534-raw.jpg" alt="The Warrior & The Smith Concept Art" style="width: 70%; max-width: 600px; object-fit: contain;">
     </a>
 </div>
